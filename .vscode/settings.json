@@ -1,0 +1,10 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.pylintArgs": [
+        "--unsafe-load-any-extension=y",
+        "--errors-only",
+    ]
+}
